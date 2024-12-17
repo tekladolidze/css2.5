@@ -770,5 +770,272 @@
     width: 768px;
     height: 94px;
     margin: 0 auto;
-    background-color: aqua;
+    text-align: center;
+}
+
+
+#our_h{
+    padding-top: 8px;
+    font-size: 40px;
+}
+
+#our_p{
+    font-size: 24px;
+    color: #535862;
+
+}
+
+
+#customers_boxs{
+    width: 1187px;
+    height: 536px;
+    margin-top: 32px;
+    margin-left: 28px;
+}
+
+
+#girls_box{
+ height: 256px;
+ width: 1184px;
+}
+
+#boy_box{
+    height: 256px;
+    width: 1184px;
+}
+
+
+#sienna_box{
+   display: inline-block;
+   vertical-align: middle;
+   width: 580px;
+   height: 256px;
+   border: 1px solid #E9EAEB;
+   background: #FFF;
+   border-radius: 12px;
+   margin-right: 14px;
+}
+
+
+#caitlyn_box{
+    display: inline-block;
+    vertical-align: middle;
+    width: 580px;
+    height: 256px;
+    border: 1px solid #E9EAEB;
+   background: #FFF;
+   border-radius: 12px;
+}
+
+#olly_box{
+    display: inline-block;
+    vertical-align: middle;
+    width: 580px;
+    height: 256px;
+    border: 1px solid #E9EAEB;
+    background: #FFF;
+    border-radius: 12px;
+    margin-top: 24px;
+    margin-right: 14px;
+}
+
+#riley_box{
+    display: inline-block;
+    vertical-align: middle;
+    width: 580px;
+    height: 256px;
+    border: 1px solid #E9EAEB;
+    background: #FFF;
+    border-radius: 12px;
+    margin-top: 24px;
+}
+
+
+#seiena_p{
+    padding-top: 32px;
+    padding-left: 32px;
+    font-size: 20px;
+    color: #181D27;
+    padding-bottom: 80px;
+}
+
+#caitlyn_p{
+    padding-top: 32px;
+    padding-left: 32px;
+    font-size: 20px;
+    color: #181D27;
+    padding-bottom: 30px;
+}
+
+
+#olly_p{
+    padding-top: 32px;
+    padding-left: 32px;
+    font-size: 20px;
+    color: #181D27;
+    padding-bottom: 50px;
+}
+
+#liley_p{
+    padding-top: 32px;
+    padding-left: 32px;
+    font-size: 20px;
+    color: #181D27;
+    padding-bottom: 50px;
+}
+
+#siena_avatar{
+ display: inline-block;
+ vertical-align: middle;
+ padding-right: 12px;
+ margin-left: 30px;
+}
+
+#siena_name{
+    display: inline-block;
+    vertical-align: middle;
+    padding-right: 12px;
+}
+
+#siena_logo{
+    display:inline-block;
+    vertical-align: middle;
+}
+
+
+#name_p{
+    color: #181D27;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+
+#siena_name_pp{
+    font-size: 16px;
+    color: #535862;
+    padding-right: 88px;
+}
+
+#caitly_name{
+    display: inline-block;
+    vertical-align: middle;
+    padding-right: 12px;
+}
+
+
+#caitlyn_avatar{
+    display: inline-block;
+    vertical-align: middle;
+    padding-right: 12px;
+    margin-left: 30px;
+}
+
+
+#caitlyn_p{
+    margin-bottom: 35px;
+}
+
+
+#caitly_name{
+    margin-right: 80px;
+}
+
+#caitlyn_pp{
+    color: #181D27;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+#caitlyn_ppp{
+    font-size: 16px;
+    color: #535862;
+    padding-right: 88px;
+}
+
+
+#caitlyn_logo{
+    display:inline-block;
+    vertical-align: middle;
+}
+
+
+#olly_p{
+    padding-top: 32px;
+    padding-left: 32px;
+    font-size: 20px;
+    color: #181D27;
+    padding-bottom: 80px;
+}
+
+#olly_avatar{
+    display: inline-block;
+    vertical-align: middle;
+    padding-right: 12px;
+    margin-left: 30px;
+}
+
+#olly_name{
+    display: inline-block;
+    vertical-align: middle;
+    padding-right: 50px;
+}
+
+#olly_logo{
+    display:inline-block;
+    vertical-align: middle;
+
+}
+
+
+#olly_pp{
+    color: #181D27;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+#olly_ppp{
+    font-size: 16px;
+    color: #535862;
+    padding-right: 90px;
+}
+
+
+#ril_logo{
+    display:inline-block;
+    vertical-align: middle;
+
+}
+
+#ril_name{
+    display: inline-block;
+    vertical-align: middle;
+    padding-right: 50px;
+}
+
+
+#roll_avatar{
+    display: inline-block;
+    vertical-align: middle;
+    padding-right: 12px;
+    margin-left: 30px;
+}
+
+
+#liley_p{
+    margin-bottom: 33px;
+}
+
+
+#ril_p{
+    color: #181D27;
+    font-size: 18px;
+    font-weight: 600;
+   
+}
+
+
+#ril_pp{
+    font-size: 16px;
+    color: #535862;
+    padding-right: 90px;
 }
